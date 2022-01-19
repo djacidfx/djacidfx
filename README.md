@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djacidfx
+- 👋 Hi, I’m David
 - 👀 I’m interested in sublimation printing and learning how to code
 - 🌱 I’m currently learning to build games using construct 3, build box and working on websites
 - 💞️ I’m looking to collaborate on anything that I can learn.
